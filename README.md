@@ -1,7 +1,7 @@
 # esx_disableRadio
 Disable radio from vehicles in ESX server
 
-Just add ``` start esx_disableRadio ``` in your config.cfg
+Just put this in ressource and add ``` start esx_disableRadio ``` in your config.cfg file
 
 This script is totaly client-sided.
 
